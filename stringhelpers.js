@@ -1,4 +1,4 @@
-	/* stringhelpers.js
+/* stringhelpers.js
  *
  * Generic string manipulation functions useful for CommandFusion iViewer integrators
  * Public domain code, written by CommandFusion Pty. Ltd - www.commandfusion.com
