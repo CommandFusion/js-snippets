@@ -54,4 +54,7 @@ number2hex(234234).toUpperCase(); // returns the string "392FA"
 ```
 
 
+## Persistent data
 
+Include the `persistentData.js` file to add functions to save and restore arbitrary data (not just strings) to persistent global tokens.
+Make sure you read the comments in the file for an example of use.
